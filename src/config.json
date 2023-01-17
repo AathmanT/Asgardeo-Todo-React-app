@@ -1,0 +1,13 @@
+{
+    "clientID": "",
+    "baseUrl": "",
+    "signInRedirectURL": "",
+    "signOutRedirectURL": "",
+    "scope": ["openid","profile"],
+    "stsConfig": {
+        "client_id": "<choreoDevPortalClientId>",
+        "orgHandle": "<choreoOrganizationName>",
+        "scope": ["openid"]
+    },
+    "stsTokenEndpoint": "https://sts.choreo.dev/oauth2/token"
+}
